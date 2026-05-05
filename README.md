@@ -1,6 +1,5 @@
-This backend is mainly built using PHP and MySQL, with additional use of Python for data processing.
  # Silent App Backend (PHP + MySQL)
- 
+ This backend is mainly built using PHP and MySQL, with additional use of Python for data processing.
 ## Requirements
 - XAMPP (Apache + MySQL)
 - PHP 8+
